@@ -23,16 +23,16 @@ Overall Aggregates
 ![](Overall_aggs.PNG)
 
 1-Star Comparison
-![](1-star_aggs.PNG)
+![](1-Star_aggs.PNG)
 
 2-Star Comparison
-![](2-star_aggs.PNG)
+![](2-Star_aggs.PNG)
 
 3-Star Comparison
-![](3-star_aggs.PNG)
+![](3-Star_aggs.PNG)
 
 4-Star Comparison
-![](4-star_aggs.PNG)
+![](4-Star_aggs.PNG)
 
 5-Star Comparison
-![](5-star_aggs.PNG)
+![](5-Star_aggs.PNG)
